@@ -1,0 +1,3 @@
+{
+  "DBHost":"mongodb://leo:27017/pi_sensor_data"
+}
